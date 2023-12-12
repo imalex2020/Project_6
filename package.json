@@ -1,5 +1,5 @@
 {
-  "name": "project_4",
+  "name": "project_6",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -13,6 +13,7 @@
     "@badeball/cypress-cucumber-preprocessor": "^19.1.1",
     "@bahmutov/cypress-esbuild-preprocessor": "^2.2.0",
     "cypress": "^13.6.0",
+    "cypress-wait-until": "^3.0.1",
     "eslint": "^8.54.0",
     "eslint-config-standard": "^17.1.0",
     "eslint-plugin-import": "^2.29.0",

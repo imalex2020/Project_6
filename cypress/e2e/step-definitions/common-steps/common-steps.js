@@ -1,8 +1,8 @@
 const { Given, When, Then } = require('@badeball/cypress-cucumber-preprocessor')
 
-const TGTables = require('../../../pages/TGTables')
+const TGPagination = require('../../../pages/TGPagination')
 
-const tgTables = new TGTables()
+const tgPagination = new TGPagination()
 
 
 Given(/^the user is on "([^"]*)"$/, (url) => {
