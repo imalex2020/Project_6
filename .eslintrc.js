@@ -17,5 +17,6 @@ module.exports = {
             {code: 120, ignoreComments: true, ignoreStrings: true}
         ],
         'no-undef': 'off',
+        
     }
 }
